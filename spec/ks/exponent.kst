@@ -1,0 +1,8 @@
+id: exponent
+asserts:
+  - actual: must_be_100
+    expected: 100
+  - actual: must_be_1000
+    expected: 1000
+  - actual: must_be_1024
+    expected: 1024
